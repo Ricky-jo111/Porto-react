@@ -3,7 +3,7 @@ import Navbar from '../Components/Navbar'
 import one from '../Components/img/one.jpeg'
 import two from '../Components/img/two.jpeg'
 import three from '../Components/img/Three.jpeg'
-import four from '../Components/img/four.jpeg'
+import four from '../Components/img/Four.jpeg'
 import './Css/Blog.css'
 
 function Blog() {
