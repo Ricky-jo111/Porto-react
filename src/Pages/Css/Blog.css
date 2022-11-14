@@ -1,0 +1,26 @@
+.center h3{
+    text-align: center;
+    width: 100%;
+    
+}
+.center{
+    width: 100%;
+    border: 1px ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.column {
+    flex-direction: column;
+}
+.column .content > img {
+    width: 300px;
+    height: 400px;
+    
+}
+img:hover{
+    transition: 0.5s ease-in-out;
+    transform: translateY(-10px);
+}
